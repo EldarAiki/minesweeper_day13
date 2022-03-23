@@ -1,0 +1,65 @@
+
+
+
+.field {
+
+    background-color:rgba(175, 175, 175, 0.212);
+    text-align: center;
+    margin: auto;
+    
+    
+}
+
+/* .table {
+    text-align: center;
+} */
+
+.unopen {
+    background: linear-gradient(to top,  rgb(95, 95, 95), rgb(188, 189, 183));
+    height: 40px;
+    width: 40px;
+    border: 1px solid rgb(53, 53, 53);
+    
+}
+
+
+
+
+.cellOpen {
+    background: linear-gradient(to top,  rgb(119, 170, 170), rgb(202, 237, 253));
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border: 1px solid rgb(53, 53, 53);
+}
+
+.blown {
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border: 1px solid rgb(53, 53, 53);
+}
+
+
+.marked {
+    background-color: rgb(176, 127, 255);
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border: 1px solid rgb(53, 53, 53);
+
+}
+
+.resetBtn {
+    background-color: chartreuse;
+    margin: auto;
+    align-self: center;
+    
+}
+
+.topUI {
+
+    text-align: center;
+    
+}
